@@ -1,2 +1,2 @@
 # SlideShow
- Using JS
+> Using JS
